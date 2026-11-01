@@ -1,0 +1,12 @@
+- identifier: MusicNote
+  title: Music Note
+  team: [JeMo, DaniMo]
+  icon: DefaultBlueprint
+  blueprint: service
+  properties:
+    url: https://example.com
+    language: string
+    slack: https://example.com
+    tier: Test
+    my_prop: string
+  relations: {}
